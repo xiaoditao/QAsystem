@@ -1,0 +1,9 @@
+**/*.pyc
+.idea/
+.venv/
+*.tar.gz
+*.tgz
+*.zip
+*.log
+pylucene-6.5.0/
+pymetamap/
